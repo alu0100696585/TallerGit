@@ -8,4 +8,4 @@ Configuracion de entorno
 
 Configuracion del remoto
   Conexion remoto
-  pull fetch 
+  pull (fetch + merge)
